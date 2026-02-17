@@ -1,8 +1,8 @@
-# 🍽 Dinner
-
-Dinner is where systems converge: layered flavors, coordinated timing, and composed plates.
-
-Recipes in this directory are organized below by primary protein type for easier planning and navigation.
+<p align="center">
+  <strong>🍽 Dinner</strong><br><br>
+  Dinner is where systems converge: layered flavors, coordinated timing, and composed plates.<br><br>
+  Recipes in this directory are organized below by primary protein type for easier planning and navigation.
+</p>
 
 ---
 
