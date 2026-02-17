@@ -84,11 +84,14 @@ Eventually, this repository will:
 - Track iteration like software versions  
 
 ---
+<br>
 
-Cooking is both art and structure.
+<p align="center">
+  <em>Cooking is both art and structure.</em><br><br>
+  <strong>This repository honors both.</strong>
+</p>
 
-This repository honors both.
-
+<br>
 -----------------------------------------------------------
 
 > Built and maintained by Ebony Rose Martin https://thatone.kitchen
