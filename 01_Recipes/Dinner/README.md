@@ -10,6 +10,7 @@
 
 - [Lemon Herb Roast Chicken](./Poultry/Lemon_Herb_Roast_Chicken/)
 - [Chicken Fettuccine Alfredo](./Poultry/Chicken_Fettuccine_Alfredo/)
+- [Mustard Parmesan Chicken](./Poultry/Mustard_Parmesan_Chicken/)
 
 ---
 
